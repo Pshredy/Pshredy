@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++,HTML,CSS,JS,REACT**
 
-- 💬 Ask me about **c++,HTML,CSS,JS**
+- 💬 Ask me about **C++,HTML,CSS,JS**
 
 - 📫 How to reach me **pshredson@gmail.com**
 
