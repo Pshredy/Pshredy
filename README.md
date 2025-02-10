@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pshredson</h1>
-<h3 align="center">First-year Computer Science Student. In my free time, I devote myself to programming, learning the C++ language and the React framework. My adventure with programming began in the last years of high school and since then I have been constantly developing my skills in this direction.</h3>
+<h3 align="center">Third-year Computer Science Student. In my free time, I devote myself to programming, learning the C++ language and the React framework. My adventure with programming began in the last years of high school and since then I have been constantly developing my skills in this direction.</h3>
 
 - 🌱 I’m currently learning **C++,HTML,CSS,JS,REACT**
 
